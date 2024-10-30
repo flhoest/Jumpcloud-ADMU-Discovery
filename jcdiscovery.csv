@@ -1,2 +1,4 @@
 "SID","LocalPath","LocalComputerName","LocalUsername","JumpCloudUserName"
-"S-1-5-21-1841794964-276660893-2257318537-1000","C:\Users\admin.flhoest","JC-WRKST-2","CORP\admin.flhoest","flhoest"
+"S-1-5-21-1841794964-276660893-2257318537-7783","C:\Users\testuser","JC-TEST-PC","CORP\testuser",""
+"S-1-5-21-1841794964-276660893-2257318537-5897","C:\Users\admin.dandries","JC-WRKST-2","CORP\admin.dandries",""
+"S-1-5-21-1841794964-276660893-2257318537-1000","C:\Users\admin.flhoest","JC-WRKST-2","CORP\admin.flhoest",""
